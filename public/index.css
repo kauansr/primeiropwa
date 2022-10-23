@@ -28,7 +28,6 @@ nav {
 }
 
 main {
-    background: url("./icon/app-icon-192x192.png") no-repeat center center;
     background-size: cover;
     height: 92vh;
 }
